@@ -1,6 +1,6 @@
 A Análise de Deviance (ANODEV) ou Análise do Desvio é uma generalização da ANOVA para modelos GLM, a partir de uma sequência de modelos encaixados (modelos da mesma família) os efeitos de covariáveis, de fatores e suas interações. [[Função Desvio ou Deviance]]
 ## Definição
-Seja $M_{p1},\cdots,M_{p}$ uma sequência de modelos encaixados (obtidos por alguma restrição nos parâmetros) com parâmetros $p_{1}$ $p_{2}$ $\cdots p_{r}$, com matriz de modelos $X_{p1},...,M_{p}$ e desvios $D_{p1},\cdots,D_{p}$.
+Seja $M_{p1},\cdots,M_{p}$ uma sequência de modelos encaixados (obtidos por alguma restrição nos parâmetros) com parâmetros $p_{1}$<$p_{2}$ <$\cdots < p_{r}$, com matriz de modelos $X_{p1},...,M_{p}$ e desvios $D_{p1},\cdots,D_{p}$.
 Observa-se que essas desigualdades entre as deviances, em geral, não se verifica a estatística de Pearson generalizada e, por essa razão, a comparação de modelos encaixados é ralizada, principalmente, baseada na função deviance.
 
 
