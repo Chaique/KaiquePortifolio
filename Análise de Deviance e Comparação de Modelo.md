@@ -7,8 +7,8 @@ Observa-se que essas desigualdades entre as deviances, em geral, não se verific
 
 $p_{1}$ < $p_{2}$ < $\cdots$ < $p_{r}$
 
-$p_{1}<p_{2}$
-$p_{1}<\cdots$
+$p_{1} < p_{2}$
+$p_{1}<\cdots < p_{2}$
 $p_{1} < \cdots$
 
 
